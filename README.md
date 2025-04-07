@@ -31,6 +31,13 @@ Dane pochodzą z platformy Kaggle i zawierają informacje o przestępstwach w De
 - Zaobserwowano sezonowość – więcej incydentów w okresie letnim.
 - Przestępstwa przeciwko mieniu stanowiły największy odsetek zgłoszeń.
 
+## Podgląd raportu
+
+Aby zobaczyć pełen raport z analizy (kod + wykresy), pobierz plik poniżej i otwórz go w przeglądarce internetowej:
+
+[Pobierz raport HTML](./crime_analysis_denver_databricks.html)
+
+
 ---
 
 Projekt został przygotowany jako demonstracja umiejętności analizy danych z wykorzystaniem narzędzi Big Data.
