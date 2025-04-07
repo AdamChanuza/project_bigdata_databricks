@@ -18,7 +18,7 @@ Projekt zrealizowany w ramach kursu "Big Data". Celem analizy było zbadanie prz
 
 ## Struktura repozytorium
 
-- `AC140316_projekt BigData.html` – raport projektu wygenerowany z Databricks (zawiera kod i wyniki).
+- `crime_analysis_denver_databricks.html` – raport projektu wygenerowany z Databricks (zawiera kod i wyniki).
 - `README.md` – opis projektu.
 
 ## Źródło danych
